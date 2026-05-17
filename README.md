@@ -218,10 +218,10 @@ You can watch the full demo video here: [VIDEO](https://drive.google.com/file/d/
 **Thank you for checking out this project!**  
 If you have any questions or suggestions, feel free to open an issue or submit a pull request.
 
-# Author
+<!-- # Author
 <div align="center">
 <a href="https://github.com/NgqvngVinh" target="_blank">
   <img src="https://github.com/NgqvngVinh.png" alt="Avatar của tôi" width="60" style="border-radius: 50%;">
 </a>
-</div>
+</div> -->
 
