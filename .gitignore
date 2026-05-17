@@ -1,0 +1,49 @@
+# --- Build artifacts (STM32CubeIDE / GCC ARM) ---
+Debug/
+Release/
+build/
+dist/
+*.elf
+*.hex
+*.bin
+*.o
+*.d
+*.su
+*.cyclo
+*.list
+*.map
+*.lst
+*.obj
+
+# --- STM32CubeIDE / Eclipse per-machine state ---
+.settings/
+.metadata/
+*.launch
+*.cproject.bak
+
+# --- OS junk ---
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# --- Editor / IDE per-user ---
+.vscode/
+.idea/
+*.swp
+*~
+*.bak
+*.tmp
+*.orig
+
+# --- Secrets ---
+.env
+.env.*
+*.pem
+*.key
+
+# --- Private / confidential (course materials, personal reports, demo videos) ---
+*.pdf
+*.mp4
+*.mkv
+# Whitelist the demo GIF referenced by README
+!Traffic-light-system-STM32F103RB2-Demo.gif
